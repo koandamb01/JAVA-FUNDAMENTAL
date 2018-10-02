@@ -1,0 +1,13 @@
+package pokemon;
+
+public class PokedexTest {
+	public static void main(String[] args) {
+		Pokedex pokedex = new Pokedex();
+		
+		System.out.println(pokedex.createPokemon("Lolo", 100, "animal"));
+		
+		
+//		pokedex.createPokemon("Pikachu", 200, "animate");
+		
+	}
+}

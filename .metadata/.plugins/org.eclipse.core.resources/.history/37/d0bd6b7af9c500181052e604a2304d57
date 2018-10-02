@@ -1,0 +1,14 @@
+package bank.account;
+
+public class BankAccount {
+	private String accountNumber;
+	private double checkingBalance;
+	private double savingBalance;
+	private double totalMoneySave = 0;
+	
+	private void generateAccountNumber() {
+		this.accountNumber = "";
+		Random rand = new Random;
+	}
+	
+}

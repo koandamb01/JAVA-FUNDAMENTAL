@@ -1,0 +1,8 @@
+package bank.account;
+
+public class BankAccount {
+	private String accountNumber;
+	private double checkingBalance;
+	private double savingBalance;
+	private double totalMoneyofAllAccount = 0;
+}

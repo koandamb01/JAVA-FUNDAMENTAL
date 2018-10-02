@@ -1,0 +1,14 @@
+package bank.account;
+
+public class BankAccountTest {
+	public static void main(String[] args) {
+		
+		BankAccount mybank = new BankAccount();
+		
+		
+		mybank.AccountInformation();
+		System.out.println("-------------------");
+		mybank.deposit("checking", 300);
+//		mybank.AccountInformation();
+	}
+}

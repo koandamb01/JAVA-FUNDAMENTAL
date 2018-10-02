@@ -1,0 +1,18 @@
+package object.master;
+
+public class Ninja extends Human {
+	public Ninja() {
+		this.setStealth(10);
+	}
+	
+	public void steal(Human human) {
+		System.out.println("Ninja just someone health");
+		this.health += human.health;
+		int health = this.getHealth();
+	}
+	
+	public void runAway() {
+		System.out.println("Ninja is running away!");
+		this.health -= 10;
+	}
+}

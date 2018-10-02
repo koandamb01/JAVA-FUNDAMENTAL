@@ -1,0 +1,12 @@
+package calculator;
+
+public class Calculator {
+	private double OperandOne;
+	private double OperandTwo;
+	private char Operation;
+	
+	public Calculator(){
+		this.OperandOne = 0;
+		this.OperandTwo = 0;
+	}
+}

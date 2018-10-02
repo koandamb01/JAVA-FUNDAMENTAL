@@ -1,0 +1,25 @@
+package object.master;
+
+public class Samurai extends Human {
+	private int numberOfSamurai = 0;
+	public Samurai() {
+		this.health = 200;
+		this.numberOfSamurai++;
+	}
+	
+	public void deathBlow(Human human) {
+		System.out.println("Samurai just attack someone and now their health is 0!");
+		human.health = 0;
+		this.health = this.health / 2;
+	}
+	
+	public void meditate() {
+		System.out.println("Samurai just mediate himself");
+		this.health = 200;
+	}
+	
+	public Integer howMany() {
+		System.out.println("There are " + this.numberOfSamurai + "Samuraies");
+		return this.numberOfSamurai;
+	}
+}

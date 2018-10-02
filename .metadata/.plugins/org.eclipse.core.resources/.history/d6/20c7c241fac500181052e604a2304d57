@@ -1,0 +1,27 @@
+package bank.account;
+
+import java.util.Random;
+
+public class BankAccount {
+	private String accountNumber;
+	private double checkingBalance;
+	private double savingBalance;
+	private static double totalMoneySave = 0;
+	private static int numberOfAccounts = 0;
+	
+	private void generateAccountNumber() {
+		this.accountNumber = "";
+		Random rand = new Random();
+		for(int i = 1; i <= 10; i++) {
+			this.accountNumber += rand.nextInt(9);
+		}
+		
+		System.out.println("Your new Account Number: " + this.accountNumber);
+	}
+	
+	public BankAccount() {
+		this.generateAccountNumber();
+		this.numberOfAccounts++;
+	}
+	
+}

@@ -1,0 +1,8 @@
+package phone.src;
+
+public class PhoneTester {
+	public static void main(String[] args) {
+		Galaxy s9 = new Galaxy("S9", 78, "T-Mobile", "Ring Ring Ring!!!");
+		s9.displayInfo();
+	}
+}

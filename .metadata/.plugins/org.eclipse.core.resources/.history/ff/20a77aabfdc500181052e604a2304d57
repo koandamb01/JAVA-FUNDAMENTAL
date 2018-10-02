@@ -1,0 +1,7 @@
+package bank.account;
+
+public class BankAccountTest {
+	public void main(String[] args) {
+		BankAccount mybank = new BankAccount();
+	}
+}
