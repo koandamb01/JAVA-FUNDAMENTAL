@@ -110,4 +110,25 @@ public class BasicJava {
             }
         }
     }
+
 }
+
+    public void performOperation() {
+		if(this.OperandOne == 0 || this.OperandTwo == 0) {
+			System.out.println("Please set your Operands!!!!");
+		}else {
+			if(this.Operation == '+') {
+				this.result = this.OperandOne + this.OperandTwo;
+				this.results.add(this.OperandOne + " + " + this.OperandTwo + " = " + this.result);
+				this.OperandOne = this.OperandTwo = 0;
+			}
+			else if(this.Operation == '-') {
+				this.result = this.OperandOne - this.OperandTwo;
+				this.results.add(this.OperandOne + " - " + this.OperandTwo + " = " + this.result);
+				this.OperandOne = this.OperandTwo = 0;
+			}
+			else {
+				System.out.println("Please choose a correct operation, Hint: + or -");
+			}
+		}
+	}

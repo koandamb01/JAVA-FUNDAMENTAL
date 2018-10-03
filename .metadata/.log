@@ -3567,3 +3567,1844 @@ Binding(COMMAND+SHIFT+T,
 		src[*]: {CHILDREN}
 			calculator[*]: {CHILDREN}
 				[Working copy] Calculator.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:31:04.121
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Calculator[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			calculator[*]: {CHILDREN}
+				CalculatorTester.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:49:40.727
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Calculator[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			calculator[*]: {CHILDREN}
+				Calculator.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:49:40.751
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.azuEZNnz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:49:40.752
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.azuEZNnz
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:49:40.752
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:49:40.753
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.azuEZNnz => OK
+
+!ENTRY org.eclipse.ui 2 2 2018-10-02 16:49:58.478
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.ui.projectPropertyPage (bundle: org.springframework.ide.eclipse.boot.validation, propertyPage: org.springframework.ide.eclipse.boot.validation.preferences.BootValidationProjectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.370
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.leGfFOfq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.371
+!MESSAGE subscribing to classpath changes: sts4.classpath.leGfFOfq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.371
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.372
+!MESSAGE subsribers = [sts4.classpath.leGfFOfq]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.372
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.374
+!MESSAGE project Double LInked List ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.374
+!MESSAGE project BankAccount ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.375
+!MESSAGE Preparing classpath changed notification Double LInked List
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.375
+!MESSAGE project Calculator ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.375
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.376
+!MESSAGE project Master ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.376
+!MESSAGE project Phone ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.377
+!MESSAGE project Pokemon ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.377
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.378
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.379
+!MESSAGE executing callback sts4.classpath.leGfFOfq Double LInked List false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:05.379
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.leGfFOfq => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.081
+!MESSAGE executing callback sts4.classpath.leGfFOfq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.082
+!MESSAGE Preparing classpath changed notification Pokemon
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.083
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.085
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.085
+!MESSAGE executing callback sts4.classpath.leGfFOfq Pokemon false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.101
+!MESSAGE executing callback sts4.classpath.leGfFOfq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.101
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.102
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.104
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.105
+!MESSAGE executing callback sts4.classpath.leGfFOfq Phone false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.110
+!MESSAGE executing callback sts4.classpath.leGfFOfq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.110
+!MESSAGE Preparing classpath changed notification Master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.110
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.111
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.111
+!MESSAGE executing callback sts4.classpath.leGfFOfq Master false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.114
+!MESSAGE executing callback sts4.classpath.leGfFOfq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.115
+!MESSAGE Preparing classpath changed notification Calculator
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.115
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.117
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.118
+!MESSAGE executing callback sts4.classpath.leGfFOfq Calculator false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.122
+!MESSAGE executing callback sts4.classpath.leGfFOfq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.122
+!MESSAGE Preparing classpath changed notification BankAccount
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.123
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.124
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.124
+!MESSAGE executing callback sts4.classpath.leGfFOfq BankAccount false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:06.128
+!MESSAGE executing callback sts4.classpath.leGfFOfq SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 16:59:47.527
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] Node.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:00:21.278
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] Node.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:08.697
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] Node.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:21.965
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] Node.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:28.393
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				Node.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:28.398
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.leGfFOfq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:28.398
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.leGfFOfq
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:28.398
+!MESSAGE subsribers = null
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:28.399
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.leGfFOfq => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.251
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ARDmQzqG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.251
+!MESSAGE subscribing to classpath changes: sts4.classpath.ARDmQzqG
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.251
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.252
+!MESSAGE subsribers = [sts4.classpath.ARDmQzqG]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.252
+!MESSAGE Sending initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.253
+!MESSAGE project Double LInked List ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.254
+!MESSAGE Preparing classpath changed notification Double LInked List
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.254
+!MESSAGE project BankAccount ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.254
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.254
+!MESSAGE project Calculator ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.255
+!MESSAGE project Master ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.255
+!MESSAGE project Phone ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.255
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.255
+!MESSAGE project Pokemon ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.256
+!MESSAGE executing callback sts4.classpath.ARDmQzqG Double LInked List false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.256
+!MESSAGE Sending initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.256
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.ARDmQzqG => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.842
+!MESSAGE executing callback sts4.classpath.ARDmQzqG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.843
+!MESSAGE Preparing classpath changed notification Pokemon
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.844
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.845
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.846
+!MESSAGE executing callback sts4.classpath.ARDmQzqG Pokemon false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.850
+!MESSAGE executing callback sts4.classpath.ARDmQzqG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.851
+!MESSAGE Preparing classpath changed notification Phone
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.851
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.853
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.853
+!MESSAGE executing callback sts4.classpath.ARDmQzqG Phone false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.857
+!MESSAGE executing callback sts4.classpath.ARDmQzqG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.858
+!MESSAGE Preparing classpath changed notification Master
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.858
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.859
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.860
+!MESSAGE executing callback sts4.classpath.ARDmQzqG Master false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.864
+!MESSAGE executing callback sts4.classpath.ARDmQzqG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.864
+!MESSAGE Preparing classpath changed notification Calculator
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.865
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.867
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.867
+!MESSAGE executing callback sts4.classpath.ARDmQzqG Calculator false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.872
+!MESSAGE executing callback sts4.classpath.ARDmQzqG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.872
+!MESSAGE Preparing classpath changed notification BankAccount
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.873
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.875
+!MESSAGE classpath=18 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.876
+!MESSAGE executing callback sts4.classpath.ARDmQzqG BankAccount false 18
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:01:45.884
+!MESSAGE executing callback sts4.classpath.ARDmQzqG SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:03:06.645
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:03:09.478
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:03:52.707
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:04:59.746
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:11:04.656
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:13:34.651
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:13:38.262
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:15:02.793
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:16:35.829
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:16:48.151
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:17:06.707
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:17:14.278
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:18:28.766
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:19:03.544
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:19:06.844
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:19:11.990
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:19:37.656
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:20:07.030
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:20:21.425
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:20:25.049
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:20:26.599
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:20:29.162
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:20:47.077
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:21:36.268
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:22:09.969
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:27:49.423
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:30:07.373
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:34:16.696
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:34:31.291
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:35:16.201
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:35:22.368
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:35:48.435
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:35:52.029
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:35:59.248
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:36:35.714
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:37:07.400
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:37:13.416
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:37:22.442
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:37:28.176
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:37:36.787
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:37:45.080
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:38:38.046
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] Node.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:38:45.396
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				Node.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:39:20.957
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CHILDREN | FINE GRAINED | PRIMARY RESOURCE}
+					DLL[*]: {CHILDREN | FINE GRAINED}
+						push(Node)[+]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:39:31.244
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:39:35.650
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:40:17.391
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:40:18.052
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:40:46.620
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				DLLTest.java[+]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:40:46.873
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY WORKING COPY}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:40:47.483
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:41:21.945
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:41:27.500
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:41:32.771
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:41:53.142
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:43:05.310
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:43:07.081
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:43:19.253
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:44:03.379
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:44:24.481
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:44:28.821
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:44:31.868
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:44:35.422
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:44:44.011
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:44:59.206
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:45:13.306
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:46:07.714
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:46:10.727
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:46:15.649
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:46:23.222
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:46:29.016
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:47:16.408
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:47:49.622
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:49:04.971
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:49:07.334
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:49:26.795
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:49:41.320
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:49:51.707
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:50:38.584
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:50:44.385
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:50:53.465
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:51:06.054
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:51:27.149
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:51:42.671
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:52:00.594
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:52:08.369
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:52:19.119
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:52:50.076
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:53:04.293
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:53:13.133
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:53:26.567
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:54:23.873
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:54:28.312
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:54:31.826
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:54:33.956
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:54:49.116
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:55:04.168
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:55:19.610
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:55:28.744
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:55:44.418
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:56:05.721
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:56:14.259
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:56:14.969
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:56:27.571
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 17:56:44.836
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:15:30.177
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:16:24.653
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:16:58.875
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:17:02.352
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:20:17.489
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:21:29.281
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:21:50.683
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:23:11.028
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:24:01.148
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:24:13.993
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:24:20.195
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:24:30.876
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:24:57.010
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:25:01.095
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:25:06.904
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:43:06.927
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:43:28.990
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:43:44.908
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:43:58.294
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:44:03.553
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:44:14.426
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:44:43.713
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:44:45.268
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:44:48.058
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[+]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:44:48.061
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[-]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:44:51.829
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[+]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:44:51.831
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[-]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:44:55.114
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:45:37.653
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:45:44.092
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:47:40.008
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:47:41.213
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:47:45.650
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:48:47.991
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:48:56.401
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:49:26.099
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:49:35.986
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:50:13.446
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:50:42.299
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:51:32.901
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:51:47.446
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:58:22.719
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[+]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:58:22.722
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[-]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:58:39.162
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:58:41.418
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[+]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:58:41.419
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[-]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:58:42.193
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:59:19.358
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:59:30.945
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 18:59:46.375
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:00:01.316
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:00:44.711
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:00:55.754
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:02:06.058
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:25:07.225
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:25:15.012
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:26:44.142
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:27:25.289
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:28:23.917
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:28:45.108
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:29:20.962
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:29:49.706
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:30:00.017
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:30:01.770
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:30:05.829
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:30:14.033
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:30:32.231
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:31:05.947
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:31:53.241
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:33:37.956
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:33:40.531
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:33:55.982
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:34:13.004
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:34:18.125
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:35:10.744
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:35:37.559
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:35:50.472
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:36:13.793
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:36:24.878
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:36:29.524
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:55:54.227
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:57:49.197
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:58:01.688
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 19:59:02.061
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:01:12.378
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:01:40.105
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:01:46.261
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[+]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:01:46.263
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[-]: {}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:02:11.951
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:02:18.822
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:02:28.010
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:04:00.131
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:04:03.182
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:04:06.248
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:04:11.675
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:04:23.401
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:04:51.309
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:04:56.822
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:09:02.861
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:15:11.018
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:15:12.084
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:15:12.779
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:15:15.192
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:15:27.308
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:15:31.747
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:15:40.345
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:15:44.581
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:15:48.824
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:17:55.141
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLL.java[*]: {PRIMARY RESOURCE}]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2018-10-02 20:18:02.473
+!MESSAGE changeEvent = org.eclipse.jdt.core.ElementChangedEvent[source=Java Model[*]: {CHILDREN}
+	Double LInked List[*]: {CHILDREN}
+		src[*]: {CHILDREN}
+			d.linked.list[*]: {CHILDREN}
+				[Working copy] DLLTest.java[*]: {CONTENT | FINE GRAINED | PRIMARY RESOURCE}]
